@@ -1,0 +1,49 @@
+Elaborar sitios web se necesitan muchos contenedores de diferentes etiquetas.
+Etiquetas semanticas dan significado (HTML ultima version se definen)
+Accesibilidad web, lectores de sitios web para personas ciegas, accesibilidad de pantallas
+
+Las etiquetas semanticas ayudan a los lectores a definir un orden.
+lectores de google arañas o spider que navegan la web para crear un resumen de la estructura.
+alt importante para la accesibilidad.
+HTML se piensa como si fuera un documento para construir un libro.
+SEO estudio de palabras clave, maneras que la gente busca X producto en internet. Buscador de palabras clave en google.
+se acoplan en su sitio / strabajando para ser encontrados por inteligencia articifial encontrar su sitio.
+angular (etiqueta HTML en un root)motores de google no podian ver de que se trataba en sitio web. 
+renderizador del lado del servidor o del cliente.
+dinamismo lo agrega el servidor 
+
+CSS-prototipos de diseño
+
+background-image : url('')
+background-position: bottom;
+background-size:
+background-repeat: no-repeat;
+background-size: cover; o en 30% o 30px, contain;
+https://cssgradient.io/
+fuentes genericas: font-family: ;
+o de librerias: https://fonts.google.com/
+
+
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css">
+
+textos
+font-size:
+font-style:
+font-weight:
+
+propiedades del texto:
+text-align: end, start, center,justify, right, left
+Decorar texto: 
+text-decoration-color, underline wavy lightgreen
+text-transform: uppercase
+
+parrafos: sangrias al inicio o separar lineas de parrafos o palabras
+
+text-indent: 30px
+letter-spacing: 3px
+line-height: 2.5
+word-spacing: 2.5;
+
+

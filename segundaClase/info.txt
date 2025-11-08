@@ -1,0 +1,10 @@
+etiquetas madres y etiquetas hijos
+
+Sitio web el header es etiquetas descriptivas y meta datos, es el cerebro del sitio web
+Titulo de la pagina <title>
+No son visibles pero le dan posibilidad de poder tener tipo de fuente, logica
+metadato= dato acerca de otro dato lo describe
+charset = caracter set (caracter se define como un texto individual ejem H, L)
+ASCII= lista de caracteres
+UTF-8, 
+meta name="viewport" ventana especifica con el tama;o de la pantalla en el cual navego
