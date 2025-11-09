@@ -27,4 +27,5 @@ Etiquetas de estructura --->> describen los sitios web.
 <heading>
 <main> ---> principal de contenido.
 <nav>--> navegacion de la pagina
-
+<div> --> se usa como un contenedor. No de forma semanticas
+<section>--> 
