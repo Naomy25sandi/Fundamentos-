@@ -8,3 +8,23 @@ charset = caracter set (caracter se define como un texto individual ejem H, L)
 ASCII= lista de caracteres
 UTF-8, 
 meta name="viewport" ventana especifica con el tama;o de la pantalla en el cual navego
+
+Contenido:
+
+H1, h2, h3, h4 son titulos
+p- parrafos.
+Etiquetas semanticas buenas practicas para definir la estructura de mi pagina
+etiqueta a para links 
+etiquete a 
+URL absoluta --> https://www.google.com--> define exactamente vamos a ir
+URL relativa --> no se da el enlace completo como dirigirse a un about de una pagina--> de un mismo dominio.
+target="_blank" para enviarlo a una pagina nueva.
+<butt
+
+para ordenar todo ctrl a ctrl f
+
+Etiquetas de estructura --->> describen los sitios web.
+<heading>
+<main> ---> principal de contenido.
+<nav>--> navegacion de la pagina
+
