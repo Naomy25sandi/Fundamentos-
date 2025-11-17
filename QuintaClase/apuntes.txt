@@ -1,3 +1,9 @@
 Modelos de cajas
 
 content -> padding -> border -> margin
+
+Alinear elementos con Flexbox y con grid
+
+Flexbox  <------->
+
+Grid  <------>  Horizontal y vertical (Columnas y filas)
