@@ -1,0 +1,16 @@
+Height y widt
+
+ctrl+a ctrl k ctrl f copiamos todo y lo formateamos
+
+
+tama;os max- 
+
+overflow se sale de la caja que lo contiene
+
+tama;o minimo min-heigt o min= width
+
+posiciones de la lista--> outside - inside
+
+opacidad: se usa propiedad opacity
+
+SELECTORES COMBINADOS--> 
