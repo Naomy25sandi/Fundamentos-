@@ -1,0 +1,5 @@
+Diseño responsivo, usos de imágenes y videos.
+
+Que la página se pueda ver en cualquier pantalla
+media @media
+
